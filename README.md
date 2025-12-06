@@ -1,0 +1,1 @@
+This file shows how sagemaker connects to s3 using boto3
