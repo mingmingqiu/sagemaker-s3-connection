@@ -1,5 +1,5 @@
 # Use an official base image for SageMaker (Python 3.6 with Ubuntu 18.04)
-FROM 763104351884.dkr.ecr.ap-south-1.amazonaws.com/pytorch-training:2.5.1-cpu-py311-ubuntu22.04-sagemaker
+FROM 763104351884.dkr.ecr.us-east-1.amazonaws.com/pytorch-training:2.5.1-cpu-py311-ubuntu22.04-sagemaker
 
 # Set the working directory in the container
 WORKDIR /opt/ml/code

@@ -1,1 +1,1 @@
-This file shows how sagemaker connects to s3 using boto3
+ s3-connection.ipynb specifies how to connect to s3, and how to use docker to do the data preprocessing in the sagemaker job.
